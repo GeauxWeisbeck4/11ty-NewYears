@@ -1,0 +1,21 @@
+{
+  "title": "Geaux New Years",
+  "url": "https://example.com/",
+  "language": "en",
+  "description": "This is about New Years 2023",
+  "feed": {
+    "subtitle": "Happy New Years!",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Andrew Weisbeck",
+    "email": "youremailaddress@example.com",
+    "url": "https://example.com/about-me/"
+  }
+}
