@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: 2023 
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: 2023
   order: 3
 ---
 
-I am a person that writes stuff.
+# 2023 will be so much better
